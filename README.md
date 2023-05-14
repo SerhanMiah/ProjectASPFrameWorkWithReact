@@ -56,15 +56,15 @@ React Components: The frontend is built using React components that interact wit
 
 
 
-### Phase 2: Creating the Classes for the Snake Game:
+### Phase 2:
 
 
 
 
-### Phase 3 Making the Front end with Xaml:
+### Phase 3:
 
 
-### Phase 4 Combining the classes to make the Snake Game:
+### Phase 4:
 
 
 
@@ -72,7 +72,6 @@ React Components: The frontend is built using React components that interact wit
 
 ## Final Product:
 
-Game Page
 
 
 
